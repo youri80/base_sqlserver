@@ -1,0 +1,26 @@
+{
+  "name": "base_sqlserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "basic-auth": "^2.0.0",
+    "express": "^4.16.2",
+    "ldapauth-fork": "^4.0.2",
+    "tedious": "^2.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://youri80@github.com/youri80/base_sqlserver.git"
+  },
+  "author": "Christian Lange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youri80/base_sqlserver/issues"
+  },
+  "homepage": "https://github.com/youri80/base_sqlserver#readme"
+}
